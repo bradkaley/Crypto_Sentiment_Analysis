@@ -13,11 +13,7 @@ Based on the review of the sentiment in the latest news articles, the following 
 
 3. Finally, Ethereum had the highest overall positive sentiment score (0.395) as opposed to Bitcoin (0.291).
 
-<br>
-
 ---
-
-<br>
 
 ## Natural Language Processing
 
@@ -81,11 +77,7 @@ Based on these top words for each coin, word clouds were generated for each coin
 **Ethereum Word Cloud**<br>
 ![Ethereum Word Cloud](Analysis_Images/eth_wordcloud.png)
 
-<br>
-
 ---
-
-<br>
 
 ## Named Entity Recognition
 
