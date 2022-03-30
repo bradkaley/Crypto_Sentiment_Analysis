@@ -1,8 +1,6 @@
 # Crypto_Sentiment_Analysis
 Sentiment Analysis Using NLP for the latest Bitcoin and Ethereum News. The 100 latest English news articles since December 17, 2021 were pulled using NewsAPI.
 
-<br>
-
 ## Sentiment Analysis
 
 Based on the review of the sentiment in the latest news articles, the following conclusions were made:
